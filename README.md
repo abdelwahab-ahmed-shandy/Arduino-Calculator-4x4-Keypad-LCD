@@ -1,4 +1,4 @@
-#Arduino Calculator - 4x4 Keypad & I2C LCD
+# Arduino Calculator - 4x4 Keypad & I2C LCD
 
 A simple calculator built using an Arduino Uno, a 4x4 keypad, and an I2C LCD screen. This project allows users to input two numbers, choose a basic operation (+, -, *, /), and view the result on the LCD.
 It was created as part of a university project, where I contributed to the code development and logic design.
@@ -71,3 +71,11 @@ If you have a picture or video of the setup, you can embed it here:
 
 ```markdown
 ![Project Demo](images/Arduino_Calculator-3.jpg)
+
+```
+---
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
+[![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
