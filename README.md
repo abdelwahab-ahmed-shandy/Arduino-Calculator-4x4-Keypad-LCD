@@ -70,7 +70,7 @@ I contributed to:
 If you have a picture or video of the setup, you can embed it here:
 
 ```markdown
-![Project Demo](images/Arduino_Calculator-3.jpg)
+![Project Demo](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD/blob/main/images/Arduino_Calculator-3.jpg)
 
 ```
 ---
